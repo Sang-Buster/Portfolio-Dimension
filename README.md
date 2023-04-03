@@ -2,7 +2,7 @@
 
 <h1>Portoflio-Card</h1>
 
-<h6>A Minimal Static Wbsite Template with Light/Dark Theme</h6>
+<h6>A Website template based on HTML5 Up-Dimension integrated with Boostrap v5.</h6>
 
 <a href="https://portfolio-dimension-sang-buster.vercel.app/" _target="blank">
 <img src="README.assets/Web_Preview.png" alt="Web_Preview" width=40%/>
