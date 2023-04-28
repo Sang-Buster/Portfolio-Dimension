@@ -2,7 +2,7 @@
 
 <h1>Portoflio-Dimension</h1>
 
-<h6>A Website template based on HTML5 Up-Dimension integrated with <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Boostrap</a> v5.0, <a href="https://fontawesome.com/v5/search">Font Awesome</a> v5.15.4, and <a href="https://formsubmit.co/">Formsubmit</a> Functionality</h6>
+<h6>A Website template based on <a href="https://html5up.net/">HTML5 Up</a>-<a href="https://html5up.net/dimension">Dimension</a> integrated with <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Boostrap</a> v5.0, <a href="https://fontawesome.com/v5/search">Font Awesome</a> v5.15.4, and <a href="https://formsubmit.co/">Formsubmit</a> Functionality</h6>
 
 <a href="https://portfolio-dimension-sang-buster.vercel.app/" _target="blank">
 <img src="README.assets/Web_Preview.png" alt="Web_Preview" width=40%/>
